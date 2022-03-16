@@ -1,0 +1,12 @@
+h1{
+    color: blueviolet;
+    background-color: bisque;
+}
+p{
+    color: beige;
+    background-color: black;
+    width: 100%;
+}
+small{
+    display: block;
+}
